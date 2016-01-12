@@ -1,0 +1,13 @@
+c:\users\chen\documents\visual studio 2015\Projects\RoutePlanner\RoutePlanner.BLL\obj\Debug\RoutePlanner.BLL.csprojResolveAssemblyReference.cache
+c:\users\chen\documents\visual studio 2015\Projects\RoutePlanner\RoutePlanner.BLL\bin\Debug\RoutePlanner.BLL.dll
+c:\users\chen\documents\visual studio 2015\Projects\RoutePlanner\RoutePlanner.BLL\bin\Debug\RoutePlanner.BLL.pdb
+c:\users\chen\documents\visual studio 2015\Projects\RoutePlanner\RoutePlanner.BLL\bin\Debug\Newtonsoft.Json.dll
+c:\users\chen\documents\visual studio 2015\Projects\RoutePlanner\RoutePlanner.BLL\bin\Debug\RoutePlanner.DAL.dll
+c:\users\chen\documents\visual studio 2015\Projects\RoutePlanner\RoutePlanner.BLL\bin\Debug\RoutePlanner.dll
+c:\users\chen\documents\visual studio 2015\Projects\RoutePlanner\RoutePlanner.BLL\bin\Debug\EntityFramework.dll
+c:\users\chen\documents\visual studio 2015\Projects\RoutePlanner\RoutePlanner.BLL\bin\Debug\RoutePlanner.DAL.pdb
+c:\users\chen\documents\visual studio 2015\Projects\RoutePlanner\RoutePlanner.BLL\bin\Debug\RoutePlanner.pdb
+c:\users\chen\documents\visual studio 2015\Projects\RoutePlanner\RoutePlanner.BLL\bin\Debug\Newtonsoft.Json.xml
+c:\users\chen\documents\visual studio 2015\Projects\RoutePlanner\RoutePlanner.BLL\bin\Debug\EntityFramework.xml
+c:\users\chen\documents\visual studio 2015\Projects\RoutePlanner\RoutePlanner.BLL\obj\Debug\RoutePlanner.BLL.dll
+c:\users\chen\documents\visual studio 2015\Projects\RoutePlanner\RoutePlanner.BLL\obj\Debug\RoutePlanner.BLL.pdb

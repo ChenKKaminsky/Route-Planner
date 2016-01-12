@@ -1,0 +1,5 @@
+c:\users\chen\documents\visual studio 2015\Projects\RoutePlanner\RoutePlanner\bin\Debug\RoutePlanner.dll
+c:\users\chen\documents\visual studio 2015\Projects\RoutePlanner\RoutePlanner\bin\Debug\RoutePlanner.pdb
+c:\users\chen\documents\visual studio 2015\Projects\RoutePlanner\RoutePlanner\obj\Debug\RoutePlanner.Entities.csprojResolveAssemblyReference.cache
+c:\users\chen\documents\visual studio 2015\Projects\RoutePlanner\RoutePlanner\obj\Debug\RoutePlanner.dll
+c:\users\chen\documents\visual studio 2015\Projects\RoutePlanner\RoutePlanner\obj\Debug\RoutePlanner.pdb
